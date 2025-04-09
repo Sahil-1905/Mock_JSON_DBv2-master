@@ -1,16 +1,26 @@
 {
-     "users": [
-        {
-          "id": 1,
-          "username": "Anna123",
-          "first_name": "Anna",
-          "email": "annasemail@gmail.com"   
-        },
-        {
-            "id": 2,
-            "username": "Bob123",
-            "first_name": "Bob",
-            "email": "bobssemail@gmail.com"   
-        }
-     ]
+  "users": [
+    {
+      "id": 1,
+      "username": "Anna123",
+      "first_name": "Anna",
+      "email": "annasemail@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "Bob123",
+      "first_name": "Bob",
+      "email": "bobssemail@gmail.com"
+    },
+    {
+      "id": 3,
+      "username": "sahil01",
+      "email": "sahilshorey2023@gmail.com"
+    },
+    {
+      "id": 4,
+      "username": "Sahil1905",
+      "email": "sahilshorey2023@gmail.com"
+    }
+  ]
 }
